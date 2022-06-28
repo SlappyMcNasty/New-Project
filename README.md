@@ -1,3 +1,3 @@
 # Free Code Camp Stuff
 
-Some description
+Welcome to my first project
